@@ -1,0 +1,1 @@
+La siguiente documentación forma parte de un experimento llevado a cabo en el CIDTEA con el objetivo de probar la generación de energía limpia mediante procesos bio generadores
